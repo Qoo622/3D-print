@@ -1,5 +1,5 @@
 # P320カービンキットについて
-<image src=https://github.com/Qoo622/3D-print/blob/6679a83017afca63b05803068612880f31ac595d/_image/P320/B2F81027-B08F-4B05-B868-6652323DB29A.jpeg>
+<image src=https://github.com/Qoo622/3D-print/blob/6a8b4064e4e8391d7b31eadb1da7990ca14f92f6/_image/P320/BA2BC6BB-C1B7-4B77-822F-E9AF61F78182.png>
 
 ## 【概要と特徴】
 - VFC / SIG Air P320向けのカービンコンバージョンキットです。
