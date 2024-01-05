@@ -1,8 +1,8 @@
 # Yume-vision Upgrade Modular Enclosure
-
 ## 【概要と特徴】
-こちらは通称 **「夢ビジョン」** と呼ばれる、中華製の謎の激安第1世代デジタルNV向けの外装キット『夢ビジョン用強化モジュール式外装｜ _Yume-vision Upgrade Modular Enclosure_ ：YUME』です。名称の通りモジュール式で前後上下の4部位5パーツから成り立っており、マウント方式の変更や機能の追加等の更新に対応しやすくなっています。
-安さが唯一の利点である夢ビジョンにこんなコストをかけてどうするんだ、というごもっともな批判を聞かなかったことに出来る方向けのキットです。
+こちらは通称 **「夢ビジョン」** と呼ばれる、中華製の謎の激安第1世代デジタルNV向けの外装キット『**夢ビジョン用強化モジュール式外装**｜Yume-vision Upgrade Modular Enclosure：YUME』です。名称の通りモジュール式で前後上下の4部位5パーツから成り立っており、マウント方式の変更や機能の追加等の更新に対応しやすくなっています。
+
+「安さが唯一の利点である夢ビジョンにこんなコストをかけてどうするんだ」というごもっともな批判を聞かなかったことに出来る方向けのキットです。
 YUMEは基礎設計と各種オプションにより、元になったベース機と比較して以下の機能を強化しています。
 
 - **隠密性の向上**
@@ -64,42 +64,60 @@ YUMEは基礎設計と各種オプションにより、元になったベース�
 | M3x16mmキャップボルト | 偏光板調光機能を持たせる際に使います | 4本 | N/A |
 
 ### 基本的な組み立て手順
-1. LowerパーツにMonitor-Buttonを差し込み、モニター基板をビス止めする
-2. LowerにSelect-Buttonを差し込み、スイッチ基板をビス止めする
-3. UpperにConnector-coverを皿ネジとナットで固定する
-4. ガンマウントする場合はこのタイミングでG43系のフリップマウントにネジ止めする
-5. Upperにメイン基板をビス止めする
-6. バッテリーを繋ぐ
-7. モニターを90度曲げた状態にし、Monitor-Frameに差し込む
-8. UpperとLowerを噛み合わせる
-9. Rear→Monitor→Upper/Lowerの順に挟み込み、キャップボルトで4カ所を固定する
-10. 反対側にFrontパーツをはめ込み、同じくキャップボルトで4カ所を固定する
+**1. LowerパーツにMonitor-Buttonを差し込み、モニター基板をビス止めする**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/de415562-d270-4a36-8d5a-308c7250de5c)
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/e4d9f3cc-a3dc-4ea6-a179-c7da3c80b25b)
+
+**2. LowerにSelect-Buttonを差し込み、スイッチ基板をビス止めする**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/096dd0d6-03b4-4e99-b645-b2b09d613b3a)
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/210e9c19-4933-4cc3-915d-a2f529ba6c10)
+
+**3. モニターを90度曲げた状態にし、Monitor-Frameに差し込む**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/61b0ab13-5fa0-4cc3-bbb7-1c8956c8fb57)
+
+**4. UpperにConnector-coverを皿ネジとナットで固定する**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/57363329-4f18-4b01-a1ee-ee352893094f)
+> [!NOTE]
+> ガンマウントする場合はこのタイミングでUpperにG43系のフリップマウントにネジ止めしてください
+
+**5. Upperにメイン基板をビス止めする**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/25503fef-9617-4498-9b2e-07d78d340203)
+
+**8. バッテリーを繋ぐ**
+
+**9. UpperとLowerを噛み合わせる**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/6800c243-ab83-46d1-a7e4-d0556881c748)
+
+**10. Rear→Monitor→Upper/Lowerの順に挟み込み、キャップボルトで4カ所を固定する**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/9157f1a2-ffad-40fb-b3e7-77f613052442)
+
+**11. Frontにレンズモジュールをビス止めする**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/bdf68b3e-514b-46d6-8c16-e8cb3ad9c111)
+
+**12. 反対側にFrontパーツをはめ込み、同じくキャップボルトで4カ所を固定する**
+  ![image](https://github.com/Qoo622/3D-print/assets/65710525/44a3a9d4-7770-4485-8cb1-aea9292a4218)
 
 ## 各種オプションについて
-### 調光フレーム
+### 1.調光フレーム
 偏光板を無段階で回転させることによってモニターの明るさをコントロールできます。
 暗順応の維持や、光漏れによる位置曝露を軽減が期待できます。
-
-**【用意するもの】**
+- **【用意するもの】**
   - 印刷したオプション
     - Filter-dial
     - Filter-dial-frame
   - 偏光板（透過率40%程度）をφ44mmに切り出したもの
   - M3x16mmキャップボルト；4本（後部固定用ボルトと入れ替えて利用）
-
-**【組み立て方】**
+- **【組み立て方】**
   1. Filter-dialの内側に偏光板を貼り付ける
   2. Filter-dial-frameを合わせる
   3. Rear→Filter-dial-frame→Filter-dial→Monitor-Frame→Upper/Lowerの順になるように挟み込む
 
-### ヘッドマウント用接眼部
+### 2.ヘッドマウント用接眼部
 ヘッドマウントした際の短いアイリリーフでもモニターが見えるようにルーペレンズを組み込めます。
-
-**【用意するもの】**
+- **【用意するもの】**
   - シート型のルーペレンズをφ46mmに切り出したもの
   - 予備のRearパーツ（必要であれば）
-
-**【組み立て方】**
+- **【組み立て方】**
   1. Rearパーツの内側にルーペレンズを貼り付ける
   2. 基本構成と同様の手順で組み込む
 
