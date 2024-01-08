@@ -44,63 +44,69 @@ YUMEは基礎設計と各種オプションにより、元になったベース�
 | item | Description | Number | URL |
 | :--- | :--- | :---: | --- |
 | 夢ビジョン本体 | 上記分解手順を参考に中身だけ取り出してください | 1つ | N/A |
-| M3x10mm キャップボルト | 本体の8ヶ所を固定するために使います | 8本 | N/A |
-| M3xXmm 皿ネジ | コネクターカバーを固定するのに使います | 1本 | N/A |
+| M3x10mm キャップボルト | 本体の前方4ヶ所とコネクターカバーを固定するために使います | 5本 | N/A |
+| M3x14mm キャップボルト | 本体の後方4ヶ所を固定するのに使います | 4本 | N/A |
 | M3ナット | 本体やコネクタカバーを固定するのに使います | 9個 | N/A |
 | --- | ▼ 基本的に印刷が必要なキット |
-| YUME_v1_Lower | ボタンやモニター基盤系を固定するのに使います | 1個 | `URL準備中` |
+| YUME_v1_Upper | メイン基板を固定するのに使います | 1個 | `URL準備中` |
+| YUME_v1_Lower | ボタンやモニター基板系を固定するのに使います | 1個 | `URL準備中` |
 | YUME_v1_Front | レンズおよび本体の固定用のパーツです | 1個 | `URL準備中` |
-| YUME_v1_Connector-cover | コネクタ開口部を塞ぐパーツです（低硬度シリコンで印刷してください）| 1個 | `URL準備中` |
+| YUME_v1_Connector-cover | コネクタ開口部を塞ぐパーツです | 1個 | `URL準備中` |
 | YUME_v1_Monitor-frame | モニター部分を固定するパーツです | 1個 | `URL準備中` |
 | YUME_V1_Rear | 接眼部および本体の固定用として使います | 1個 | `URL準備中` |
 | --- | ▼ 用途別に選択して準備するもの　|
-| YUME_v1_Upper_HM | メイン基盤を固定し、ヘッドマウント利用時にUpperとして使います | 1個 | `URL準備中` |
-| YUME_v1_Arm | 単眼でのヘッドマウント用に使います | 1個 | `URL準備中` |
-| YUME_v1_Arm-dual | 双眼でのヘッドマウント用に使います | 1個 | `URL準備中` |
-| YUME_v1_Upper_G43 | スイングアウトマウントでガンマウントする場合にUpperとして使います | 1個 | `URL準備中` |
+| YUME_v1_Upper_HM | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 | `URL準備中` |
+| YUME_v1_Arm-dual | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 | `URL準備中` |
+| YUME_v1_Lower_G43 | ガンマウントする場合にLowerと入れ替えて使います | 1個 | `URL準備中` |
 | G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 | N/A |
 | YUME_v1_Filter-dial | 偏光板による調光機能を持たせる場合に使います | 1個 | `URL準備中` |
 | YUME_v1_Filter-dial-frame | 同上 | 1個 | `URL準備中` |
-| M3x16mmキャップボルト | 偏光板調光機能を持たせる際に使います | 4本 | N/A |
+| M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 | N/A |
 
-### 基本的な組み立て手順
-**1. LowerパーツにMonitor-Buttonを差し込み、モニター基板をビス止めする**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/de415562-d270-4a36-8d5a-308c7250de5c)
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/e4d9f3cc-a3dc-4ea6-a179-c7da3c80b25b)
+## 基本的な組み立て手順
+### **1. LowerパーツにMonitor-ButtonとSelect-Buttobを差し込む**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/a864e9c9-3bf2-46e0-8064-590f288f7d57" width="400px">
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/d491a351-ddd8-4917-a989-6dd16687e493" width="400px">
 
-**2. LowerにSelect-Buttonを差し込み、スイッチ基板をビス止めする**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/096dd0d6-03b4-4e99-b645-b2b09d613b3a)
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/210e9c19-4933-4cc3-915d-a2f529ba6c10)
+### **2. Lowerにモニター基板とスイッチ基板をビス止めする**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/8c01342f-64f6-42ae-ac5d-8585498d1c01" width="400px">
 
-**3. モニターを90度曲げた状態にし、Monitor-Frameに差し込む**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/61b0ab13-5fa0-4cc3-bbb7-1c8956c8fb57)
+### **3. Upper内側にM3ナットを差し込んでおく**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/fbfc3666-1696-45a9-862f-81312335c96b" width="400px">
 
-**4. UpperにConnector-coverを皿ネジとナットで固定する**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/57363329-4f18-4b01-a1ee-ee352893094f)
 > [!NOTE]
-> ガンマウントする場合はこのタイミングでUpperにG43系のフリップマウントにネジ止めしてください
+> 内部での脱落を防ぐため、可能であれば接着するかグルーガン等で埋め込んでしまうことをおすすめします。
 
-**5. Upperにメイン基板をビス止めする**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/25503fef-9617-4498-9b2e-07d78d340203)
+### **4. Upperにメイン基板をビス止めする**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/d1bdc3bf-2cb9-49df-a7d0-f2b8320747af" width="400px">
 
-**8. バッテリーを繋ぐ**
+### **5. UpperにConnector-coverを上から挿し込み、キャップボルトで固定する**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/342a5a2c-29ec-4de6-9d75-670116a5874c" width="400px">
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/a6e95d4b-cc94-4263-85aa-5dea18726e08" width="400px">
 
-**9. UpperとLowerを噛み合わせる**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/6800c243-ab83-46d1-a7e4-d0556881c748)
+### **6. バッテリーをつなぎ、UpperとLowerを噛み合わせる**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/eadd6af7-403a-45de-97c9-8f25c17d8272" width="400px">
 
-**10. Rear→Monitor→Upper/Lowerの順に挟み込み、キャップボルトで4カ所を固定する**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/9157f1a2-ffad-40fb-b3e7-77f613052442)
+### **7. 画面部分を90度に曲げ、Monitor-frameで固定する**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/05e880f0-7490-4664-953c-58b16fa22f90" width="400px">
 
-**11. Frontにレンズモジュールをビス止めする**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/bdf68b3e-514b-46d6-8c16-e8cb3ad9c111)
+> [!Warning]
+> 接続部を逃すためのスリットが開けてあるので向きと断線に注意して組んでください。
 
-**12. 反対側にFrontパーツをはめ込み、同じくキャップボルトで4カ所を固定する**
-  ![image](https://github.com/Qoo622/3D-print/assets/65710525/44a3a9d4-7770-4485-8cb1-aea9292a4218)
+### **8. Rearを当てがい、4カ所をナットとキャップボルトで固定する**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/8b4d6a14-273e-435a-8014-362dead3a480" width="400px">
+
+### **9. Frontにレンズモジュールをビス止めする**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/6b0d02d1-3364-4c0e-85a5-a621ca4ac066" width="400px">
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/e60c1b34-9393-4a26-973e-aa09fcac4bec" width="400px">
+
+### **10. Frontパーツをはめ込み、同じくキャップボルトで4カ所を固定する**
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/184b437d-ae31-4e99-b61d-3113fe0fce3a" width="400px">  
 
 ## 各種オプションについて
 ### 1.調光フレーム
 偏光板を無段階で回転させることによってモニターの明るさをコントロールできます。
-暗順応の維持や、光漏れによる位置曝露を軽減が期待できます。
+暗順応の維持や、光漏れによる位置曝露の軽減が期待できます。
 - **【用意するもの】**
   - 印刷したオプション
     - Filter-dial
