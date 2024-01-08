@@ -41,27 +41,27 @@
 レンズ規格はCSマウントなのでIR対応の規格レンズを別途ご用意ください。ガンマウントであれば焦点距離12mm程度、ヘルメットマウントであれば2.8mmなどの広角レンズが使いやすいです。いずれもアリエクで数百円程度で投げ売りされています。
 
 ## 【用意するもの】
-| item | Description | Number | URL |
-| :--- | :--- | :---: | --- |
-| 夢ビジョン本体 | 上記分解手順を参考に中身だけ取り出してください | 1つ | N/A |
-| M3x10mm キャップボルト | 本体の前方4ヶ所とコネクターカバーを固定するために使います | 5本 | N/A |
-| M3x14mm キャップボルト | 本体の後方4ヶ所を固定するのに使います | 4本 | N/A |
-| M3ナット | 本体やコネクタカバーを固定するのに使います | 9個 | N/A |
+| item | Description | Number |
+| :--- | :--- | :---: |
+| 夢ビジョン本体 | 上記分解手順を参考に中身だけ取り出してください | 1つ |
+| M3x10mm キャップボルト | 本体の前方4ヶ所とコネクターカバーを固定するために使います | 5本 |
+| M3x14mm キャップボルト | 本体の後方4ヶ所を固定するのに使います | 4本 |
+| M3ナット | 本体やコネクタカバーを固定するのに使います | 9個 |
 | --- | ▼ 基本的に印刷が必要なキット |
-| YUME_v1_Upper | メイン基板を固定するのに使います | 1個 | `URL準備中` |
-| YUME_v1_Lower | ボタンやモニター基板系を固定するのに使います | 1個 | `URL準備中` |
-| YUME_v1_Front | レンズおよび本体の固定用のパーツです | 1個 | `URL準備中` |
-| YUME_v1_Connector-cover | コネクタ開口部を塞ぐパーツです | 1個 | `URL準備中` |
-| YUME_v1_Monitor-frame | モニター部分を固定するパーツです | 1個 | `URL準備中` |
-| YUME_V1_Rear | 接眼部および本体の固定用として使います | 1個 | `URL準備中` |
+| [YUME_v1_Upper](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper.stl) | メイン基板を固定するのに使います | 1個 |
+| [YUME_v1_Lower](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower.stl) | ボタンやモニター基板系を固定するのに使います | 1個 |
+| [YUME_v1_Front](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front.stl) | レンズおよび本体の固定用のパーツです | 1個 |
+| [YUME_v1_Connector-cover](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Connector-cover.stl) | コネクタ開口部を塞ぐパーツです | 1個 |
+| [YUME_v1_Monitor-frame](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Monitor-frame.stl) | モニター部分を固定するパーツです | 1個 |
+| [YUME_V1_Rear](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Rear.stl) | 接眼部および本体の固定用として使います | 1個 |
 | --- | ▼ 用途別に選択して準備するもの　|
-| YUME_v1_Upper_HM | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 | `URL準備中` |
-| YUME_v1_Arm-dual | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 | `URL準備中` |
-| YUME_v1_Lower_G43 | ガンマウントする場合にLowerと入れ替えて使います | 1個 | `URL準備中` |
-| G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 | N/A |
-| YUME_v1_Filter-dial | 偏光板による調光機能を持たせる場合に使います | 1個 | `URL準備中` |
-| YUME_v1_Filter-dial-frame | 同上 | 1個 | `URL準備中` |
-| M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 | N/A |
+| [YUME_v1_Upper_HM](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper_HM.stl) | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 |
+| [YUME_v1_Arm-dual](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
+| [YUME_v1_Lower_G43](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower_G43.stl) | ガンマウントする場合にLowerと入れ替えて使います | 1個 |
+| G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 |
+| [YUME_v1_Filter-dial](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial.stl) | 偏光板による調光機能を持たせる場合に使います | 1個 |
+| [YUME_v1_Filter-dial-frame](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial-frame.stl) | 同上 | 1個 |
+| M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 |
 
 ## 基本的な組み立て手順
 ### **1. LowerパーツにMonitor-ButtonとSelect-Buttobを差し込む**
@@ -111,8 +111,8 @@
   - 印刷したオプション
     - Filter-dial
     - Filter-dial-frame
-  - 偏光板（透過率40%程度）をφ44mmに切り出したもの
-  - M3x16mmキャップボルト；4本（後部固定用ボルトと入れ替えて利用）
+  - 偏光板（透過率40%程度）をφ46mmに切り出したもの
+  - M3x20mmキャップボルト；4本（後部固定用ボルトと入れ替えて利用）
 - **【組み立て方】**
   1. Filter-dialの内側に偏光板を貼り付ける
   2. Filter-dial-frameを合わせる
@@ -121,7 +121,7 @@
 ### 2.ヘッドマウント用接眼部
 ヘッドマウントした際の短いアイリリーフでもモニターが見えるようにルーペレンズを組み込めます。
 - **【用意するもの】**
-  - シート型のルーペレンズをφ46mmに切り出したもの
+  - シート型のルーペレンズをφ44mmに切り出したもの
   - 予備のRearパーツ（必要であれば）
 - **【組み立て方】**
   1. Rearパーツの内側にルーペレンズを貼り付ける
