@@ -67,6 +67,8 @@
 | M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 |
 
 ## 基本的な組み立て手順
+![image](https://github.com/Qoo622/3D-print/assets/65710525/d7aa62ad-b2b4-4357-be39-78590952daa5)
+
 ### **1. LowerパーツにMonitor-ButtonとSelect-Buttobを差し込む**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/a864e9c9-3bf2-46e0-8064-590f288f7d57" width="400px">
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/d491a351-ddd8-4917-a989-6dd16687e493" width="400px">
