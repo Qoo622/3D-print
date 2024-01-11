@@ -1,5 +1,5 @@
 # Yume-vision Upgrade Modular Enclosure
-![image](https://github.com/Qoo622/3D-print/assets/65710525/4bef9ba9-6e4f-4d21-8db2-5593227c3f7b)
+![image](https://github.com/Qoo622/3D-print/assets/65710525/c37113e9-52f7-4a13-9fae-28dd50984af4)
 
 ## 【概要と特徴】
 こちらは通称 **「夢ビジョン」** と呼ばれる、中華製の謎の激安第1世代デジタルNV向けの外装キット『**夢ビジョン用強化モジュール式外装**｜Yume-vision Upgrade Modular Enclosure：YUME』です。元の夢ビジョンは1/4インチネジを備えているのみでマウントには制約があります。ホムセンステー等でも使えますが、それじゃあ雰囲気としてはちょっとな……形も何だかな……というのを解消しようというものです。Modularの名の通りモジュール式で前後上下の4部位5パーツから成り立っており、オプションを組み替えることでマウント方式の変更や機能の追加等の更新に対応しやすくなっています。
