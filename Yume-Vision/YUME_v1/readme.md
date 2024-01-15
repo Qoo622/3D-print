@@ -11,7 +11,8 @@
   - 上記2つは元のキットでも内部コネクタを抜いてしまえばOKです。
 - **より簡易なガンマウント化（選択式）**
   - G43系統のフットプリントを備え、スイングアウト式のマウントによる銃への装着が可能
-     - v1.0時点ではUnity Fast等の2.26インチハイマウントに乗せたドットサイトと併用できる高さに準拠
+  - v1.0時点ではUnity Fast等の2.26インチハイマウントに乗せたドットサイトと併用できる高さに準拠
+     - 作者の環境ではPrimary Arms SLx MD-25を参考にざっくり合わせています 
 - **ヘルメットマウント化（選択式）**
   - DOVETAILインターフェースマウント、および接眼部へのルーペレンズ装着によりヘルメットマウントによるハンズフリー運用が可能
   - その気になれば（夢ビジョンが2台あれば）双眼化も可能
@@ -41,7 +42,7 @@
 > [!NOTE]
 > 分解の際に外したビスは再利用しますので保管してください。
 
-なお、個人的な所感として純正レンズはFOV10°と視野角が非常に狭いため合わせて交換を推奨します。レンズ交換は上記の分解後に、レンズ固定部の銀色のネジを外すことで行えます。
+なお、個人的な所感として純正レンズはFOV10°と視野角が非常に狭いため合わせて交換を推奨します。レンズ交換は上記の分解後に、レンズ固定部の銀色のネジを外すことで行えます。  
 レンズ規格はCSマウントなのでIR対応の規格レンズを別途ご用意ください。ガンマウントであれば焦点距離12mm程度、ヘルメットマウントであれば2.8mmなどの広角レンズが使いやすいです。いずれもアリエクで数百円程度で投げ売りされています。
 
 ## 【用意するもの】
@@ -61,11 +62,13 @@
 | --- | ▼ 用途別に選択して準備するもの　|
 | [YUME_v1_Upper_HM](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper_HM.stl) | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 |
 | [YUME_v1_Arm-dual](https://github.com/Qoo622/3D-print/blob/3eb0a2c6d50741cd12f081b95533b73ce2d9ccc4/Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
+| M5ナット&M5x45mmキャップボルト | ヘッドマウントアームを取り付ける場合に使います（双眼利用であれば2組利用してください） | 1組〜 | 
 | [YUME_v1_Lower_G43](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower_G43.stl) | ガンマウントする場合にLowerと入れ替えて使います | 1個 |
 | G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 |
+| M4ナット&M4x24mm皿ネジ | G43系マウントに取り付ける際に用意してください | 2組 |
+| [YUME_v1_Front_long_chng](https://github.com/Qoo622/3D-print/blob/a52a1b81d8a65fee7b5820fa0d31ed8a6d77a305/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front_long_chng.stl) | 通常のFrontより10mm長く、レンズ交換用に側面に穴を開けてあります [^※2] | 1個 |
 | [YUME_v1_Filter-dial](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial.stl) | 偏光板による調光機能を持たせる場合に使います | 1個 |
 | [YUME_v1_Filter-dial-frame](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial-frame.stl) | 同上 | 1個 |
-| [YUME_v1_Front_long_chng](https://github.com/Qoo622/3D-print/blob/a52a1b81d8a65fee7b5820fa0d31ed8a6d77a305/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front_long_chng.stl) | 通常のFrontより10mm長く、レンズ交換用に側面に穴を開けてあります [^※1] | 1個 |
 | M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 |
 
 ## 基本的な組み立て手順
@@ -75,7 +78,7 @@
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/d491a351-ddd8-4917-a989-6dd16687e493" width="400px">
 
 > [!NOTE]
-> G43等のマウントを利用する場合はこのタイミングでM4皿ネジ（首下20mm程度必要と思われます）とM4ナットを使ってマウントに固定してください。
+> G43等のマウントを利用する場合はこのタイミングでM4皿ネジ（24mm=首下20mm程度必要と思われます）とM4ナットを使ってマウントに固定してください。
 
 ### **2. Lowerにモニター基板とスイッチ基板をビス止めする**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/8c01342f-64f6-42ae-ac5d-8585498d1c01" width="400px">
@@ -125,7 +128,9 @@
 - **【組み立て方】**
   1. Filter-dialの内側に偏光板を貼り付ける
   2. Filter-dial-frameを合わせる
-  3. Rear→Filter-dial-frame→Filter-dial→Monitor-Frame→Upper/Lowerの順になるように挟み込む
+  3. `Rear`→`Filter-dial-frame`→`Filter-dial`→`Monitor-Frame`→`Upper / Lower`の順になるように挟み込む
+
+---
 
 ### 2.ヘッドマウント用接眼部
 ヘッドマウントした際の短いアイリリーフでもモニターが見えるようにルーペレンズを組み込めます。
@@ -135,6 +140,8 @@
 - **【組み立て方】**
   1. Rearパーツの内側にルーペレンズを貼り付ける
   2. 基本構成と同様の手順で組み込む
+> [!NOTE]
+> フレネルレンズは中心から切り出さないと像がズレるので注意してください。サークルカッターを利用すると切りやすいです。
 
 > [!TIP]
 > 緑色の視界を得たい場合はルーペレンズと併せて暗記用の下敷きなどを同径で切り出して重ね貼りすると幸せになれます
@@ -163,4 +170,5 @@
 | :--- | :--- |
 | 2024/01/dd | YUME v1.0 の .stl/.step ファイルをそれぞれ公開しました |
 
-[^※1]:焦点距離12mmレンズであれば～Front_long_chngを、2.8mm等の全長が短いレンズには～Frontがおすすめです。
+[^※1]:手前側に穴を開けてあるので、ケーブルや結束バンド等を通して脱落防止バンジーコードなどをセットできるようにしてあります。
+[^※2]:焦点距離12mmレンズであれば～Front_long_chngを、2.8mm等の全長が短いレンズには～Frontがおすすめです。
