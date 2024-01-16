@@ -54,19 +54,20 @@
 | M3ナット | 本体やコネクタカバーを固定するのに使います | 9個 |
 | --- | ▼ 基本的に印刷が必要なキット |
 | [YUME_v1_Upper](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper.stl) | メイン基板を固定するのに使います | 1個 |
-| [YUME_v1_Lower](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower.stl) | ボタンやモニター基板系を固定するのに使います | 1個 |
-| [YUME_v1_Front](https://github.com/Qoo622/3D-print/blob/3eb0a2c6d50741cd12f081b95533b73ce2d9ccc4/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front.stl) | レンズおよび本体の固定用のパーツです | 1個 |
-| [YUME_v1_Connector-cover](https://github.com/Qoo622/3D-print/blob/3eb0a2c6d50741cd12f081b95533b73ce2d9ccc4/Yume-Vision/YUME_v1/STL/YUME_v1.0_Connector-cover.stl) | コネクタ開口部を塞ぐパーツです | 1個 |
+| [YUME_v1_Lower](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower.stl) | ボタンやモニター基板系を固定するのに使います | 1個 |
+| [YUME_v1_Front](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front.stl) | レンズおよび本体の固定用のパーツです | 1個 |
+| [YUME_v1_Connector-cover](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Connector-cover.stl) | コネクタ開口部を塞ぐパーツです | 1個 |
 | [YUME_v1_Monitor-frame](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Monitor-frame.stl) | モニター部分を固定するパーツです | 1個 |
 | [YUME_V1_Rear](https://github.com/Qoo622/3D-print/blob/a52a1b81d8a65fee7b5820fa0d31ed8a6d77a305/Yume-Vision/YUME_v1/STL/YUME_v1.0_Rear.stl) | 接眼部および本体の固定用として使います | 1個 |
+| [YUME_v1_Monitor-Button](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Monitor-Button.stl) | 電源およびメニューのボタンです | 1個 |
+| [YUME_v1_Selector-Button](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Select-Button.stl) | IRモードへの切り替えや録画記録を開始するためのボタンです | 1個 |
 | --- | ▼ 用途別に選択して準備するもの　|
-| [YUME_v1_Upper_HM](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper_HM.stl) | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 |
-| [YUME_v1_Arm-dual](https://github.com/Qoo622/3D-print/blob/3eb0a2c6d50741cd12f081b95533b73ce2d9ccc4/Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
+| [YUME_v1_Upper_HM](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper_HM.stl) | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 |
+| [YUME_v1_Arm-dual](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
 | M5ナット&M5x45mmキャップボルト | ヘッドマウントアームを取り付ける場合に使います（双眼利用であれば2組利用してください） | 1組〜 | 
-| [YUME_v1_Lower_G43](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower_G43.stl) | ガンマウントする場合にLowerと入れ替えて使います | 1個 |
+| [YUME_v1_Lower_G43](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower_G43.stl) | ガンマウントする場合にLowerと入れ替えて使います | 1個 |
 | G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 |
 | M4ナット&M4x24mm皿ネジ | G43系マウントに取り付ける際に用意してください | 2組 |
-| [YUME_v1_Front_long_chng](https://github.com/Qoo622/3D-print/blob/a52a1b81d8a65fee7b5820fa0d31ed8a6d77a305/Yume-Vision/YUME_v1/STL/YUME_v1.0_Front_long_chng.stl) | 通常のFrontより10mm長く、レンズ交換用に側面に穴を開けてあります [^※2] | 1個 |
 | [YUME_v1_Filter-dial](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial.stl) | 偏光板による調光機能を持たせる場合に使います | 1個 |
 | [YUME_v1_Filter-dial-frame](https://github.com/Qoo622/3D-print/blob/7f19bff0938cc92fc7d8f5359d5dea23867885af/Yume-Vision/YUME_v1/STL/YUME_v1.0_Filter-dial-frame.stl) | 同上 | 1個 |
 | M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 |
@@ -82,6 +83,9 @@
 
 ### **2. Lowerにモニター基板とスイッチ基板をビス止めする**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/8c01342f-64f6-42ae-ac5d-8585498d1c01" width="400px">
+
+> [!NOTE]
+> キツく締めすぎるとボタン操作に影響が出る場合があります。ボタンを押せることを確かめながら作業してください。
 
 ### **3. Upper内側にM3ナットを差し込んでおく**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/fbfc3666-1696-45a9-862f-81312335c96b" width="400px">
@@ -168,7 +172,6 @@
 ## 【更新履歴】
 | Date | Update |
 | :--- | :--- |
-| 2024/01/dd | YUME v1.0 の .stl/.step ファイルをそれぞれ公開しました |
+| 2024/01/16 | YUME v1.0 の .stl/.step ファイルをそれぞれ公開しました |
 
 [^※1]:手前側に穴を開けてあるので、ケーブルや結束バンド等を通して脱落防止バンジーコードなどをセットできるようにしてあります。
-[^※2]:焦点距離12mmレンズであれば～Front_long_chngを、2.8mm等の全長が短いレンズには～Frontがおすすめです。
