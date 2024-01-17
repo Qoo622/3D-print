@@ -64,7 +64,7 @@
 | [YUME_v1.0_Selector-Button](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Select-Button.stl) | IRモードへの切り替えや録画記録を開始するためのボタンです | 1個 |
 | --- | ▼ 用途別に選択して準備するもの　|
 | [YUME_v1.0_Upper_HM](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Upper_HM.stl) | ヘッドマウント利用時にUpperと入れ替えて使います | 1個 |
-| [YUME_v1.0_Arm-dual](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
+| [YUME_v1.0_Arm-dual](Yume-Vision/YUME_v1/STL/YUME_v1.0_Arm_Dual.stl) | ヘッドマウント用に使います（単眼・双眼で利用可能です） | 1個 |
 | M5ナット&M5x45mmキャップボルト | ヘッドマウントアームを取り付ける場合に使います（双眼利用であれば2組利用してください） | 1組〜 | 
 | [YUME_v1.0_Lower_G43](https://github.com/Qoo622/3D-print/blob/e54912222f4702a5e7566905934b0170207d3648/Yume-Vision/YUME_v1/STL/YUME_v1.0_Lower_G43.stl) | ガンマウントする場合にLowerと入れ替えて使います | 1個 |
 | G43系スイングアウトマウント | ご自宅に余っているもの等を活用ください | 1個 |
