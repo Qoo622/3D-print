@@ -57,7 +57,7 @@
 | YUME_v1.0_Upper | メイン基板を固定するのに使います | 1個 |
 | YUME_v1.0_Lower | ボタンやモニター基板系を固定するのに使います | 1個 |
 | YUME_v1.0_Front | レンズおよび本体の固定用のパーツです | 1個 |
-| YUME_v1.0_Connector-cover | コネクタ開口部を塞ぐパーツです⚠️ | 1個 |
+| YUME_v1.0_Connector-cover | コネクタ開口部を塞ぐパーツです⚠️修正中… | 1個 |
 | YUME_v1.0_Monitor-frame | モニター部分を固定するパーツです | 1個 |
 | YUME_V1.0_Rear | 接眼部および本体の固定用として使います | 1個 |
 | YUME_v1.0_Monitor-Button | 電源およびメニューのボタンです | 1個 |
@@ -72,8 +72,6 @@
 | YUME_v1.0_Filter-dial | 偏光板による調光機能を持たせる場合に使います | 1個 |
 | YUME_v1.0_Filter-dial-frame | 同上 | 1個 |
 | M3x20mmキャップボルト | 偏光板調光機能を持たせる際に14mmキャップボルトと入れ替えて使います | 4本 |
-
-**⚠️ micro-SDカードを挿すとConector-coverが鑑賞することがわかったので現在修正中です、、、**
 
 ## 基本的な組み立て手順
 ![image](https://github.com/Qoo622/3D-print/assets/65710525/0ad467a7-772d-4236-964a-40b2867cb2a8)
