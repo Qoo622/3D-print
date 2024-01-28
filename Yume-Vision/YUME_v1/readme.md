@@ -77,7 +77,7 @@
 ![image](https://github.com/Qoo622/3D-print/assets/65710525/0ad467a7-772d-4236-964a-40b2867cb2a8)
 ### **1. LowerパーツにMonitor-ButtonとSelect-Buttobを差し込む**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/a864e9c9-3bf2-46e0-8064-590f288f7d57" width="400px">
-  <img src="https://github.com/Qoo622/3D-print/assets/65710525/d491a351-ddd8-4917-a989-6dd16687e493" width="400px">
+  <img src="https://github.com/Qoo622/3D-print/assets/65710525/cf3399f0-4004-4039-ae12-fb0a467094b5" width="400px">
 
 > [!NOTE]
 > G43等のマウントを利用する場合はこのタイミングでM4皿ネジ（24mm=首下20mm程度必要と思われます）とM4ナットを使ってマウントに固定してください。
