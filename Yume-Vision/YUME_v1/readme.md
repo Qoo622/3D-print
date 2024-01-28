@@ -118,7 +118,7 @@
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/e60c1b34-9393-4a26-973e-aa09fcac4bec" width="400px">
 
 > [!NOTE]
-> 内側に彫ってある△マークが上を向くように固定してください。
+> 内側に彫ってある「UP」マークが上を向くように固定してください。
 
 ### **10. Frontパーツをはめ込み、同じくキャップボルトで4カ所を固定する**
   <img src="https://github.com/Qoo622/3D-print/assets/65710525/184b437d-ae31-4e99-b61d-3113fe0fce3a" width="400px">  
