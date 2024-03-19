@@ -12,6 +12,9 @@
 | Thumb-Breaker_v1.0_handle-lock | ハンドル部分の固定に利用します | 1つ |
 | Thumb-Breaker_v1.0_gastube | ガスチューブの代わりに利用します | 1つ |
 | M4x30〜45mm　皿ネジ＋ナット | ハンドルの固定に利用します | 1つ |
+| ▼---以下任意枠---▼ |  |  |
+| Thumb-Breaker_v1.0_piston_long | フルサイズ版想定です。通常のpistonの代わりに入れてください。 | 1つ |
+| Thumb-Breaker_v1.0_gastube_long | 純正のガスチューブ準拠で採寸しています | 1つ |
 
 ## 組み立て方
 ### **1. ガスピストンを交換する**
