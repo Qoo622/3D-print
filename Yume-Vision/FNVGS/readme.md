@@ -47,3 +47,6 @@ FootのLとRを用意し、円状の部分を重ね合わせます。これら�
 - **PVS-21には利用できません**
   - アーム部分の構造の関係で手元のPVS-21レプリカでは利用できませんでした。
   - 基本的にはPVS-31などのような双眼モデルを想定して作られています。
+
+## References
+Remix from https://www.printables.com/model/505437-nvg-display-stand
