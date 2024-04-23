@@ -50,3 +50,4 @@ FootのLとRを用意し、円状の部分を重ね合わせます。これら�
 
 ## References
 Remix from https://www.printables.com/model/505437-nvg-display-stand
+by nnicclass (Creative Commmons 4.0 BY-NC)
