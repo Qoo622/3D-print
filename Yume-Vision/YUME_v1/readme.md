@@ -144,6 +144,7 @@
     - Filter-dial
     - Filter-dial-frame
   - 偏光板（透過率40%程度）をφ46mmに切り出したもの
+    - [Amazonのこんな感じのもの](https://amzn.asia/d/70GSlsl)でOKです。
   - M3x20mmキャップボルト；4本（後部固定用ボルトと入れ替えて利用）
 - **【組み立て方】**
   1. Filter-dialの内側に偏光板を貼り付ける
