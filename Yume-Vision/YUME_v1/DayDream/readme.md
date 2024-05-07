@@ -1,4 +1,4 @@
-# サーマルフュージョンシステム "Day Dream" (下書き中)
+# サーマルフュージョンシステム "Day Dream"
 ![image](https://github.com/Qoo622/3D-print/blob/master/_image/YUME/Daydream/DSC_0146.jpg?raw=true "Header") 
 ## 概要
 夢ビジョンの映像に熱源を可視化した映像を重ね合わせる、いわゆる『フュージョン』と呼ばれる視界を実現するシステムです。  
