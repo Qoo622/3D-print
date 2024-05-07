@@ -5,7 +5,7 @@
 夢ビジョン単体ではIRライトの補助がないと完全暗所で視界を確保するのは厳しいですが、本機はサーマルの支援を受けることで視界の中の人物などを強調し、使い方次第では昼間でも偽装などに対する強力な視覚補助を得ることができます。  
 | 通常時 | White Hot | Black Hot | Outline |
 | :--- | :--- | :--- | :--- |
-| ![image](https://github.com/Qoo622/3D-print/assets/65710525/5cf21327-2818-40a5-bbc2-44afdcdadbb0) | ![image](https://github.com/Qoo622/3D-print/assets/65710525/88b0790c-39fb-4b3b-a2e1-db517ec5b57d) | ![image](https://github.com/Qoo622/3D-print/assets/65710525/456e9644-8a39-4e03-a99b-60ad7365d88d) | ![image](https://github.com/Qoo622/3D-print/assets/65710525/de3e3392-6557-4711-b6ad-febd5f055434) |
+| ![image](https://github.com/Qoo622/3D-print/assets/65710525/5cf21327-2818-40a5-bbc2-44afdcdadbb0 "Normal") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/88b0790c-39fb-4b3b-a2e1-db517ec5b57d "White Hot") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/456e9644-8a39-4e03-a99b-60ad7365d88d "Black Hot") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/de3e3392-6557-4711-b6ad-febd5f055434 "Outline") |
 | 中央10mの距離に人物。IR補助灯はなし。 | 同条件。相対的に温度の高い部分が明るくなる。 | 同条件。相対的に温度の高い部分が暗くなる。 | 同条件。特徴的な熱源の周りが線で囲まれる。 |
 
 ホワイトホット・ブラックホットの切り替えだけでなく特徴的な熱源の輪郭だけを強調するアウトライン表示など、本来は高価な軍用サーマルで得られる視覚強化を疑似体験できることが最大の特徴です。  
