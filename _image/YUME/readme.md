@@ -3,10 +3,12 @@
 ## 概要
 夢ビジョンの映像に熱源を可視化した映像を重ね合わせる、いわゆる『フュージョン』と呼ばれる視界を実現するシステムです。  
 夢ビジョン単体ではIRライトの補助がないと完全暗所で視界を確保するのは厳しいですが、本機はサーマルの支援を受けることで視界の中の人物などを強調し、使い方次第では昼間でも偽装などに対する強力な視覚補助を得ることができます。  
-| 通常時 | White Hot | Black Hot | Outline |
-| :--- | :--- | :--- | :--- |
-| ![image](https://github.com/Qoo622/3D-print/assets/65710525/5cf21327-2818-40a5-bbc2-44afdcdadbb0 "Normal") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/88b0790c-39fb-4b3b-a2e1-db517ec5b57d "White Hot") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/456e9644-8a39-4e03-a99b-60ad7365d88d "Black Hot") | ![image](https://github.com/Qoo622/3D-print/assets/65710525/de3e3392-6557-4711-b6ad-febd5f055434 "Outline") |
-| 中央10mの距離に人物。IR補助灯はなし。 | 同条件。相対的に温度の高い部分が明るくなる。 | 同条件。相対的に温度の高い部分が暗くなる。 | 同条件。特徴的な熱源の周りが線で囲まれる。 |
+| Image | Setting | Description | Outline |
+| :---: | :--- | :--- | :--- |
+| ![image](https://github.com/Qoo622/3D-print/assets/65710525/5cf21327-2818-40a5-bbc2-44afdcdadbb0 "Normal") | 通常時 | 中央10mの距離に人物。IR補助灯はなし。 |
+| ![image](https://github.com/Qoo622/3D-print/assets/65710525/88b0790c-39fb-4b3b-a2e1-db517ec5b57d "White Hot") | White Hot | 同条件。相対的に温度の高い部分が明るくなる。 |
+| ![image](https://github.com/Qoo622/3D-print/assets/65710525/456e9644-8a39-4e03-a99b-60ad7365d88d "Black Hot") | Black Hot | 同条件。相対的に温度の高い部分が暗くなる。 |
+| ![image](https://github.com/Qoo622/3D-print/assets/65710525/de3e3392-6557-4711-b6ad-febd5f055434 "Outline") | Outline | 同条件。特徴的な熱源の周りが線で囲まれる。 |
 
 ホワイトホット・ブラックホットの切り替えだけでなく特徴的な熱源の輪郭だけを強調するアウトライン表示など、本来は高価な軍用サーマルで得られる視覚強化を疑似体験できることが最大の特徴です。  
 大まかな仕組みとしてはスマートフォン用サーマルカメラで取得した映像をRaspberry Pi（今回はZero2W）を用いてPythonで画像処理し小型モニターへ出力、ビームスプリッターを用いて映像を合成しています。  
@@ -104,3 +106,6 @@
 ## 注意事項
 - システムを起動したまま電源を抜かないでください
   - 環境が破損し、起動ができなくなる恐れがあります。
+- ガンマウントには以下の工夫が必要となる可能性が高いです。
+  - 処理装置および操作系統用基板の配置
+  - モバイルバッテリーの配置（小型のものを選定し上記と合わせてストックポーチなどに突っ込むのが良さそうか？）
